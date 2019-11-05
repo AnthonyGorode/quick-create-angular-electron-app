@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+## Running in electron
+
+This easy, after run `npm install`, run `npm run start:electron`. The command build a dist file and a electron's window will launch with a default interface of angular.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
