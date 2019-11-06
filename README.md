@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running in electron
 
-This easy, after run `npm install`, run `npm run start:electron`. The command build a dist file and a electron's window will launch with a default interface of angular.
+This is easy, after run `npm install`, run `npm run start:electron`. The command build a dist file and a electron's window will be launched with a default interface of angular.
 
 ## Development server
 
