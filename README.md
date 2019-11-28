@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
-## Running in electron
+## Running in electron (required: @angular/cli)
 
 This is easy, after run `npm install`, run `npm run start:electron`. The command build a dist file and a electron's window will be launched with a default interface of angular.
 For development mode use `electron .` command.
